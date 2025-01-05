@@ -1,6 +1,6 @@
 # econ-adm
 
-[] - instalar (express, ts, env, cors, typeorm, zod, jest, supertest)
+[] - instalar (express,  env, cors, ts, typeorm, zod, jest, supertest)
 [] - criar app, server, config, database
 [] - criar entidade (produto)
 [] - criar migration (produto)
